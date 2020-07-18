@@ -1478,6 +1478,11 @@ big-integer@^1.6.7:
   resolved "https://registry.yarnpkg.com/big-integer/-/big-integer-1.6.46.tgz#e18a75f0515be0f3ad10c0d110e37fa882b3f223"
   integrity sha512-Vj2TNtZ8Y0XaL6HCkzJiEqfykjtv/9wVCWIutMe+QVIXLPe2tCLEzULtYvcX9WRtmNIj3Jqi5tNjIsR0N4QOsg==
 
+bmapjs@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/bmapjs/-/bmapjs-0.1.5.tgz#40c717d9c335fc936843f9069bcf9edef2d74ce7"
+  integrity sha512-kDEVmnUYRGrULZokMghrW8ge2h6/ho4t/+sIC9fiTnxSXvZDNyTjz3v1X7wKl6C15CCBNgf/a/cleM52BKV/0w==
+
 bplist-creator@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/bplist-creator/-/bplist-creator-0.0.7.tgz#37df1536092824b87c42f957b01344117372ae45"
@@ -3935,9 +3940,9 @@ lodash.unescape@4.0.1:
   integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
 
 lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.2.0:
   version "2.2.0"
